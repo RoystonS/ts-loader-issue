@@ -2,8 +2,8 @@
   "name": "tsltest",
   "version": "1.0.0",
   "devDependencies": {
-    "ts-loader": "2.3.7",
+    "ts-loader": "9.4.2",
     "typescript": "2.5.3",
-    "webpack": "3.7.1"
+    "webpack": "5.75.0"
   }
 }
