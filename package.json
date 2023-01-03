@@ -4,6 +4,6 @@
   "devDependencies": {
     "ts-loader": "2.3.7",
     "typescript": "2.5.3",
-    "webpack": "3.7.1"
+    "webpack": "5.75.0"
   }
 }
